@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37122'
     url: http://www.gutenberg.org/2009/agents/37122
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34615#AlaskaThe-Great-Country
 gutenberg_issued: '2010-12-10'
 gutenberg_type: Text
 identifiers:
